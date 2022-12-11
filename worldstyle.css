@@ -1,0 +1,24 @@
+header{
+    text-align: justify; background-color: blanchedalmond; font-size: 25px; font-weight: 700;
+    font-stretch: expanded;
+}
+body{
+    background-image: url(2022_FIFA_World_Cup.svg.png);
+    background-blend-mode: lighten;
+    
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgba(215, 200, 0, 0.7);
+}
+p{
+    background-color: rgba(80, 245, 160, 0.5);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.diff{
+    background-color: antiquewhite; font-style: italic; font-weight: 500;
+}
